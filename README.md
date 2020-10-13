@@ -1,4 +1,4 @@
-##Prediction using Supervised Machine Learning
+Prediction using Supervised Machine Learning
 
 
 Predict the percentage of marks of an student based on the number of
